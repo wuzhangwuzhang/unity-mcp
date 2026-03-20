@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 922be0b63bee4604499b5fd3e41dfcaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6972695684552177332
+    second: AltarLevelUse_01
+  - first:
+      213: -1303894307671304342
+    second: AltarLevelUse_02
+  - first:
+      213: -6706480866742053311
+    second: AltarLevelUse_03
+  - first:
+      213: -1596536911141904726
+    second: AltarLevelUse_04
+  - first:
+      213: 2801530492007740996
+    second: AltarLevelUse_05
+  - first:
+      213: -3846970915283233927
+    second: AltarLevelUse_06
+  - first:
+      213: 3234422290489509217
+    second: AltarLevelUse_07
+  - first:
+      213: -8117455427114305271
+    second: AltarLevelUse_08
+  - first:
+      213: -1774090269352193221
+    second: AltarLevelUse_09
+  - first:
+      213: -4475330951980143917
+    second: AltarLevelUse_10
+  - first:
+      213: 6763172295506985125
+    second: AltarLevelUse_11
+  - first:
+      213: 4742972784780646855
+    second: AltarLevelUse_12_1
+  - first:
+      213: 4873950384107850430
+    second: AltarLevelUse_12_2
+  - first:
+      213: 4496789594118302336
+    second: AltarLevelUse_12_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AltarLevelUse_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 400
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c494e53c7320c3f90800000000000000
+      internalID: -6972695684552177332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_02
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 353
+        width: 400
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6719961903a7ede0800000000000000
+      internalID: -1303894307671304342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_03
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 397
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146d2e42f2bcde2a0800000000000000
+      internalID: -6706480866742053311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_04
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 307
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae569c5326f7d9e0800000000000000
+      internalID: -1596536911141904726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_05
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 29
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 23, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446fb8ba32901e620800000000000000
+      internalID: 2801530492007740996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_06
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 243
+        width: 496
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973984da550dc9ac0800000000000000
+      internalID: -3846970915283233927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1658b3ebfe9f2ec20800000000000000
+      internalID: 3234422290489509217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_08
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f8c21c41095f80800000000000000
+      internalID: -8117455427114305271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_09
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 487
+        width: 608
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 10, z: 0, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3319cfac4a2167e0800000000000000
+      internalID: -1774090269352193221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 335
+        width: 148
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daa9e2e53e64e1c0800000000000000
+      internalID: -4475330951980143917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a00574be5d9bdd50800000000000000
+      internalID: 6763172295506985125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_12_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 292
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c912305e9c62d140800000000000000
+      internalID: 4742972784780646855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_12_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 385
+        width: 296
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba80a11d00c3a340800000000000000
+      internalID: 4873950384107850430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelUse_12_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 280
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a28139f4ec76e30800000000000000
+      internalID: 4496789594118302336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5944666d4b9dcbb458acce3119c45508
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AltarLevelUse_01: -6972695684552177332
+      AltarLevelUse_02: -1303894307671304342
+      AltarLevelUse_03: -6706480866742053311
+      AltarLevelUse_04: -1596536911141904726
+      AltarLevelUse_05: 2801530492007740996
+      AltarLevelUse_06: -3846970915283233927
+      AltarLevelUse_07: 3234422290489509217
+      AltarLevelUse_08: -8117455427114305271
+      AltarLevelUse_09: -1774090269352193221
+      AltarLevelUse_10: -4475330951980143917
+      AltarLevelUse_11: 6763172295506985125
+      AltarLevelUse_12_1: 4742972784780646855
+      AltarLevelUse_12_2: 4873950384107850430
+      AltarLevelUse_12_3: 4496789594118302336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

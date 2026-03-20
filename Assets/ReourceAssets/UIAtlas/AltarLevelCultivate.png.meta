@@ -1,0 +1,1669 @@
+fileFormatVersion: 2
+guid: c3047cfba186d2d489650194c93c4b4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7551815728807734721
+    second: AltarLevelCultivate_01
+  - first:
+      213: -1396838472184573629
+    second: AltarLevelCultivate_02
+  - first:
+      213: -3896400277978683708
+    second: AltarLevelCultivate_03
+  - first:
+      213: -8495880950941387340
+    second: AltarLevelCultivate_04
+  - first:
+      213: 5638804654618484364
+    second: AltarLevelCultivate_05_1
+  - first:
+      213: 7427940605662607175
+    second: AltarLevelCultivate_05_2
+  - first:
+      213: 3290211071342779918
+    second: AltarLevelCultivate_05_3
+  - first:
+      213: 3006907647891365476
+    second: AltarLevelCultivate_06
+  - first:
+      213: 6019770450333223652
+    second: AltarLevelCultivate_07
+  - first:
+      213: 7152304806692209024
+    second: AltarLevelCultivate_08
+  - first:
+      213: -6426502646071643676
+    second: AltarLevelCultivate_09
+  - first:
+      213: -8019502283537637103
+    second: AltarLevelCultivate_10_1
+  - first:
+      213: -4353941730817332695
+    second: AltarLevelCultivate_10_2
+  - first:
+      213: -461379664279672086
+    second: AltarLevelCultivate_10_3
+  - first:
+      213: -7295305854876847625
+    second: AltarLevelCultivate_11_1
+  - first:
+      213: 6425084126078431972
+    second: AltarLevelCultivate_11_2
+  - first:
+      213: 8241502935778766636
+    second: AltarLevelCultivate_12_1
+  - first:
+      213: -4633825097941037612
+    second: AltarLevelCultivate_12_2
+  - first:
+      213: 8702376447933057047
+    second: AltarLevelCultivate_13
+  - first:
+      213: 6619890930709443975
+    second: AltarLevelCultivate_14
+  - first:
+      213: -7163889540285677859
+    second: AltarLevelCultivate_15
+  - first:
+      213: 9180846330632379893
+    second: AltarLevelCultivate_16
+  - first:
+      213: 1196560497546506594
+    second: AltarLevelCultivate_17
+  - first:
+      213: 2418611829934205021
+    second: AltarLevelCultivate_18
+  - first:
+      213: -1396022315020123451
+    second: AltarLevelCultivate_19
+  - first:
+      213: -1865905582028275897
+    second: AltarLevelCultivate_20
+  - first:
+      213: -159852619720169259
+    second: AltarLevelCultivate_21
+  - first:
+      213: -8524274521789775850
+    second: AltarLevelCultivate_icon1
+  - first:
+      213: 6336042951366290411
+    second: AltarLevelCultivate_icon2
+  - first:
+      213: -1380590027169875107
+    second: AltarLevelCultivate_22
+  - first:
+      213: -3492694156903940433
+    second: AltarLevelCultivate_Chip1
+  - first:
+      213: -2794560974276350625
+    second: AltarLevelCultivate_Chip2
+  - first:
+      213: 6358999222289268023
+    second: AltarLevelCultivate_icon_1
+  - first:
+      213: 4237356043788440297
+    second: AltarLevelCultivate_icon_2
+  - first:
+      213: 2768813226622776078
+    second: AltarLevelCultivate_icon_3
+  - first:
+      213: 368614381830284819
+    second: AltarLevelCultivate_icon_4
+  - first:
+      213: -8633690923826789063
+    second: AltarLevelCultivate_icon_5
+  - first:
+      213: -5631636827019013271
+    second: AltarLevelCultivate_icon_6
+  - first:
+      213: 7310523502024139714
+    second: AltarLevelCultivate_icon_7
+  - first:
+      213: 818790983795814732
+    second: AltarLevelCultivate_icon_8
+  - first:
+      213: 3931466769433502009
+    second: AltarLevelCultivate_iconbg_1
+  - first:
+      213: 5262655709202681288
+    second: AltarLevelCultivate_skillicon_1
+  - first:
+      213: -8985552319174925756
+    second: AltarLevelCultivate_skillicon_2
+  - first:
+      213: -1943686213506687458
+    second: AltarLevelCultivate_skillicon_3
+  - first:
+      213: 1517009773519611974
+    second: AltarLevelCultivate_skillicon_4
+  - first:
+      213: 8207316353358477544
+    second: AltarLevelCultivate_skillicon_5
+  - first:
+      213: 6671012670319938915
+    second: AltarLevelCultivate_23
+  - first:
+      213: 777222999915830493
+    second: AltarLevelCultivate_11_3
+  - first:
+      213: 2707252885364684455
+    second: AltarLevelCultivate_12_3
+  - first:
+      213: 1912105012078113143
+    second: AltarLevelCultivate_Chip3
+  - first:
+      213: 8323526472202558869
+    second: AltarLevelCultivate_icon_jijia_1
+  - first:
+      213: 4944785452390618891
+    second: AltarLevelCultivate_icon_jijia_2
+  - first:
+      213: 1194458958401952413
+    second: AltarLevelCultivate_icon_jijia_3
+  - first:
+      213: 3528878933644454038
+    second: AltarLevelCultivate_icon_jijia_4
+  - first:
+      213: 1547846973365870736
+    second: AltarLevelCultivate_icon_jijia_5
+  - first:
+      213: 366865373002679985
+    second: AltarLevelCultivate_icon_jijia_6
+  - first:
+      213: -2448419867780621008
+    second: AltarLevelCultivate_icon_sanguo_1
+  - first:
+      213: -3267491871557244747
+    second: AltarLevelCultivate_icon_sanguo_2
+  - first:
+      213: 8396945968979151009
+    second: AltarLevelCultivate_icon_sanguo_3
+  - first:
+      213: 3817572547611855385
+    second: AltarLevelCultivate_icon_sanguo_4
+  - first:
+      213: -5623638502144524166
+    second: AltarLevelCultivate_icon_sanguo_5
+  - first:
+      213: 1807823171246124922
+    second: AltarLevelCultivate_icon_sanguo_6
+  - first:
+      213: -7205619930736915560
+    second: AltarLevelCultivate_icon_sanguo_7
+  - first:
+      213: 5985635341054574384
+    second: AltarLevelCultivate_icon_sanguo_8
+  - first:
+      213: 7555584627597342017
+    second: AltarLevelCultivate_icon_shaonv_1
+  - first:
+      213: -6664461220369603070
+    second: AltarLevelCultivate_icon_shaonv_2
+  - first:
+      213: 6399709845458485683
+    second: AltarLevelCultivate_icon_shaonv_3
+  - first:
+      213: 2469662970844734674
+    second: AltarLevelCultivate_icon_shaonv_4
+  - first:
+      213: -373936415334649041
+    second: AltarLevelCultivate_icon_shaonv_5
+  - first:
+      213: 300713022628370886
+    second: AltarLevelCultivate_icon_shaonv_6
+  - first:
+      213: -3310002323140402182
+    second: AltarLevelCultivate_iconbg_2
+  - first:
+      213: 4533654776120633398
+    second: AltarLevelCultivate_iconbg_3
+  - first:
+      213: -3766934371004642124
+    second: AltarLevelCultivate_24
+  - first:
+      213: 2470185411816496370
+    second: AltarLevelCultivate_icon_jijia_line1
+  - first:
+      213: -8200863713036401257
+    second: AltarLevelCultivate_icon_jijia_line2
+  - first:
+      213: 7438499614881019587
+    second: AltarLevelCultivate_icon_jijia_line3
+  - first:
+      213: -4937886418335550979
+    second: AltarLevelCultivate_icon_jijia_line4
+  - first:
+      213: 8220963221272153623
+    second: AltarLevelCultivate_icon_jijia_line5
+  - first:
+      213: -2058539097871508357
+    second: AltarLevelCultivate_icon_jijia_line6
+  - first:
+      213: 5729285156865862177
+    second: AltarLevelCultivate_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AltarLevelCultivate_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32153b1b9f823790800000000000000
+      internalID: -7551815728807734721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_02
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 393
+        width: 264
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341d6d07fce6d9ce0800000000000000
+      internalID: -1396838472184573629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 291
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e85857943de9c0800000000000000
+      internalID: -3896400277978683708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_04
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 697
+        width: 224
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b57129c941981a80800000000000000
+      internalID: -8495880950941387340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_05_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 511
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e9a5c25fe014e40800000000000000
+      internalID: 5638804654618484364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_05_2
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 503
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747383d30a8551760800000000000000
+      internalID: 7427940605662607175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_05_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 503
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e917f798d29ad20800000000000000
+      internalID: 3290211071342779918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_06
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 973
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 0, z: 11, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e58f0139eaab920800000000000000
+      internalID: 3006907647891365476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_07
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1003
+        width: 348
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea418994558a8350800000000000000
+      internalID: 6019770450333223652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_08
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 959
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0814530c357124360800000000000000
+      internalID: 7152304806692209024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_09
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 893
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1bac874e970d6a0800000000000000
+      internalID: -6426502646071643676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_10_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 621
+        width: 192
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1112e4a892105b090800000000000000
+      internalID: -8019502283537637103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_10_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 471
+        width: 192
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a22e16011b393c0800000000000000
+      internalID: -4353941730817332695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_10_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 192
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea650cc3a9d899f0800000000000000
+      internalID: -461379664279672086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_11_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 689
+        width: 296
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1fc382afdd1ca90800000000000000
+      internalID: -7295305854876847625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_11_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 839
+        width: 296
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2f7ea98fb7a2950800000000000000
+      internalID: 6425084126078431972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_11_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 499
+        width: 296
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc1f35533049ca00800000000000000
+      internalID: 777222999915830493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_12_1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 501
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fae663143bf5270800000000000000
+      internalID: 8241502935778766636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_12_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd4feddf9851bfb0800000000000000
+      internalID: -4633825097941037612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_12_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a63055d728129520800000000000000
+      internalID: 2707252885364684455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 843
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71886c0b54d05c870800000000000000
+      internalID: 8702376447933057047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_14
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 843
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78534c05ab39edb50800000000000000
+      internalID: 6619890930709443975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 499
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeb2254b60c49c90800000000000000
+      internalID: -7163889540285677859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 861
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5829cc15a2a09120800000000000000
+      internalID: 2418611829934205021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_21
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 549
+        width: 108
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8e929a3e618cdf0800000000000000
+      internalID: -159852619720169259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 627
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb71a5fa827dce0800000000000000
+      internalID: -1380590027169875107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_23
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 939
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dcc8adda2349c50800000000000000
+      internalID: 6671012670319938915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 961
+        width: 300
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc0f0cc52929bbc0800000000000000
+      internalID: -3766934371004642124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_25
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 959
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a68efbe72828f40800000000000000
+      internalID: 5729285156865862177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_1
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 721
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d913ef93b138370800000000000000
+      internalID: 8323526472202558869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 557
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07134c9b286f9440800000000000000
+      internalID: 4944785452390618891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 377
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad45a1812939010800000000000000
+      internalID: 1194458958401952413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_4
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 599
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698ac3f71b819f030800000000000000
+      internalID: 3528878933644454038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 775
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090e2261f9e0b7510800000000000000
+      internalID: 1547846973365870736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 255
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6473eec1e571500800000000000000
+      internalID: 366865373002679985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_line1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 887
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc9ca06b8cd74220800000000000000
+      internalID: 2470185411816496370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_line2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 679
+        width: 140
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795031d27eda03e80800000000000000
+      internalID: -8200863713036401257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_line3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 897
+        width: 144
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6fcd62dfbda3760800000000000000
+      internalID: 7438499614881019587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_line4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 171
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df132ede67a197bb0800000000000000
+      internalID: -4937886418335550979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_line5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 595
+        width: 140
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e4a734e7ab61270800000000000000
+      internalID: 8220963221272153623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_jijia_line6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 821
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 59, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c9d1bd8999e63e0800000000000000
+      internalID: -2058539097871508357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_sanguo_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 175
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d5def3a17750ed0800000000000000
+      internalID: -2448419867780621008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_sanguo_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 101
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8aa59647987a2d0800000000000000
+      internalID: -3267491871557244747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_sanguo_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8862faed1f78470800000000000000
+      internalID: 8396945968979151009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_sanguo_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 101
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a00b4710ebaf430800000000000000
+      internalID: 3817572547611855385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_sanguo_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 175
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70477ed392d4f1b0800000000000000
+      internalID: -5623638502144524166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_sanguo_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 133
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f68d2989da61910800000000000000
+      internalID: 1807823171246124922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_sanguo_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 53
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b83f999de700c90800000000000000
+      internalID: -7205619930736915560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_sanguo_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 53
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ff49221af311350800000000000000
+      internalID: 5985635341054574384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_shaonv_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 11
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14577560034dad860800000000000000
+      internalID: 7555584627597342017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_shaonv_2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 11
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e08474d31383a0800000000000000
+      internalID: -6664461220369603070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_shaonv_3
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 379
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b18f14823650d850800000000000000
+      internalID: 6399709845458485683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_shaonv_4
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 257
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4e22c1361064220800000000000000
+      internalID: 2469662970844734674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_shaonv_5
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 135
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23356bbfc28fcaf0800000000000000
+      internalID: -373936415334649041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_icon_shaonv_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 13
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9191d96e85c2400800000000000000
+      internalID: 300713022628370886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_iconbg_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 223
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931265e62306f8630800000000000000
+      internalID: 3931466769433502009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_iconbg_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 811
+        width: 204
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3af7b9c628012d0800000000000000
+      internalID: -3310002323140402182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivate_iconbg_3
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 297
+        width: 212
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6386ce0aff6caee30800000000000000
+      internalID: 4533654776120633398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1aac5a7263b09194fb3ac470930ae382
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AltarLevelCultivate_01: -7551815728807734721
+      AltarLevelCultivate_02: -1396838472184573629
+      AltarLevelCultivate_03: -3896400277978683708
+      AltarLevelCultivate_04: -8495880950941387340
+      AltarLevelCultivate_05_1: 5638804654618484364
+      AltarLevelCultivate_05_2: 7427940605662607175
+      AltarLevelCultivate_05_3: 3290211071342779918
+      AltarLevelCultivate_06: 3006907647891365476
+      AltarLevelCultivate_07: 6019770450333223652
+      AltarLevelCultivate_08: 7152304806692209024
+      AltarLevelCultivate_09: -6426502646071643676
+      AltarLevelCultivate_10_1: -8019502283537637103
+      AltarLevelCultivate_10_2: -4353941730817332695
+      AltarLevelCultivate_10_3: -461379664279672086
+      AltarLevelCultivate_11_1: -7295305854876847625
+      AltarLevelCultivate_11_2: 6425084126078431972
+      AltarLevelCultivate_11_3: 777222999915830493
+      AltarLevelCultivate_12_1: 8241502935778766636
+      AltarLevelCultivate_12_2: -4633825097941037612
+      AltarLevelCultivate_12_3: 2707252885364684455
+      AltarLevelCultivate_13: 8702376447933057047
+      AltarLevelCultivate_14: 6619890930709443975
+      AltarLevelCultivate_15: -7163889540285677859
+      AltarLevelCultivate_18: 2418611829934205021
+      AltarLevelCultivate_21: -159852619720169259
+      AltarLevelCultivate_22: -1380590027169875107
+      AltarLevelCultivate_23: 6671012670319938915
+      AltarLevelCultivate_24: -3766934371004642124
+      AltarLevelCultivate_25: 5729285156865862177
+      AltarLevelCultivate_icon_jijia_1: 8323526472202558869
+      AltarLevelCultivate_icon_jijia_2: 4944785452390618891
+      AltarLevelCultivate_icon_jijia_3: 1194458958401952413
+      AltarLevelCultivate_icon_jijia_4: 3528878933644454038
+      AltarLevelCultivate_icon_jijia_5: 1547846973365870736
+      AltarLevelCultivate_icon_jijia_6: 366865373002679985
+      AltarLevelCultivate_icon_jijia_line1: 2470185411816496370
+      AltarLevelCultivate_icon_jijia_line2: -8200863713036401257
+      AltarLevelCultivate_icon_jijia_line3: 7438499614881019587
+      AltarLevelCultivate_icon_jijia_line4: -4937886418335550979
+      AltarLevelCultivate_icon_jijia_line5: 8220963221272153623
+      AltarLevelCultivate_icon_jijia_line6: -2058539097871508357
+      AltarLevelCultivate_icon_sanguo_1: -2448419867780621008
+      AltarLevelCultivate_icon_sanguo_2: -3267491871557244747
+      AltarLevelCultivate_icon_sanguo_3: 8396945968979151009
+      AltarLevelCultivate_icon_sanguo_4: 3817572547611855385
+      AltarLevelCultivate_icon_sanguo_5: -5623638502144524166
+      AltarLevelCultivate_icon_sanguo_6: 1807823171246124922
+      AltarLevelCultivate_icon_sanguo_7: -7205619930736915560
+      AltarLevelCultivate_icon_sanguo_8: 5985635341054574384
+      AltarLevelCultivate_icon_shaonv_1: 7555584627597342017
+      AltarLevelCultivate_icon_shaonv_2: -6664461220369603070
+      AltarLevelCultivate_icon_shaonv_3: 6399709845458485683
+      AltarLevelCultivate_icon_shaonv_4: 2469662970844734674
+      AltarLevelCultivate_icon_shaonv_5: -373936415334649041
+      AltarLevelCultivate_icon_shaonv_6: 300713022628370886
+      AltarLevelCultivate_iconbg_1: 3931466769433502009
+      AltarLevelCultivate_iconbg_2: -3310002323140402182
+      AltarLevelCultivate_iconbg_3: 4533654776120633398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

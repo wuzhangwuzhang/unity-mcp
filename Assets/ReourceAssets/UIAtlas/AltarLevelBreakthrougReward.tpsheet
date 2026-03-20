@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:76215a76ae788084391a8192a3be5d60:9e95f35cc57f1f78abd263241a93fbea:362286ce453fcb2f759a78aaef7a082b$
+#
+:format=40300
+:texture=AltarLevelBreakthrougReward.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelBreakthrougReward_01;1;21;316;104; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrougReward_02;1;603;272;420; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrougReward_gold_01;1;365;260;236; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrougReward_gold_02;1;127;260;236; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrougReward_gold_03;263;365;260;236; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrougReward_gold_04;263;127;260;236; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrougReward_gold_05;275;787;260;236; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,28 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2f9d9d3025fffae3f2d0ff3286a0a9fe:0bdc5814d7b831723f03326aa7a63ffd:7f7444e7f9d87e4962774b159a3dc8aa$
+#
+:format=40300
+:texture=AltarLevelUse.png
+:size=1024x512
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelUse_01;1;201;400;132; 0.5;0.5; 0;0;0;0
+AltarLevelUse_02;151;353;400;132; 0.5;0.5; 0;0;0;0
+AltarLevelUse_03;901;397;88;88; 0.5;0.5; 0;0;0;0
+AltarLevelUse_04;901;307;88;88; 0.5;0.5; 0;0;0;0
+AltarLevelUse_05;193;29;48;48; 0.5;0.5; 0;0;0;0
+AltarLevelUse_06;403;243;496;108; 0.5;0.5; 0;0;0;0
+AltarLevelUse_07;1;17;60;60; 0.5;0.5; 0;0;0;0
+AltarLevelUse_08;63;21;128;56; 0.5;0.5; 0;0;0;0
+AltarLevelUse_09;403;487;608;24; 0.5;0.5; 0;0;0;0
+AltarLevelUse_10;1;335;148;176; 0.5;0.5; 0;0;0;0
+AltarLevelUse_11;295;5;96;80; 0.5;0.5; 0;0;0;0
+AltarLevelUse_12_1;1;79;292;120; 0.5;0.5; 0;0;0;0
+AltarLevelUse_12_2;553;385;296;100; 0.5;0.5; 0;0;0;0
+AltarLevelUse_12_3;295;87;280;112; 0.5;0.5; 0;0;0;0

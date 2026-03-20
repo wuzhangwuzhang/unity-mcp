@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 7c3543546f59bc1488343f0f2072fa92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4649013057963013545
+    second: AltarLevelBreakthrough_01
+  - first:
+      213: -2772378817322523443
+    second: AltarLevelBreakthrough_02
+  - first:
+      213: 7324037777989782167
+    second: AltarLevelBreakthrough_03
+  - first:
+      213: -1620068943539405264
+    second: AltarLevelBreakthrough_04
+  - first:
+      213: -6566173682199018977
+    second: AltarLevelBreakthrough_05
+  - first:
+      213: -3256431226150610210
+    second: AltarLevelBreakthrough_06
+  - first:
+      213: 2377892145287893026
+    second: AltarLevelBreakthrough_07
+  - first:
+      213: -5776536091239697412
+    second: AltarLevelBreakthrough_08
+  - first:
+      213: -9064816091094322741
+    second: AltarLevelBreakthrough_09
+  - first:
+      213: 3946539517498814630
+    second: AltarLevelBreakthrough_10
+  - first:
+      213: -5366186476384099575
+    second: AltarLevelBreakthrough_11
+  - first:
+      213: -1625610418721984063
+    second: AltarLevelBreakthrough_12
+  - first:
+      213: -2927679889021290922
+    second: AltarLevelBreakthrough_13
+  - first:
+      213: -4435406336327880584
+    second: AltarLevelBreakthrough_14
+  - first:
+      213: -3578662108850230407
+    second: AltarLevelBreakthrough_15
+  - first:
+      213: -4150054602204118793
+    second: AltarLevelBreakthrough_lv2_01
+  - first:
+      213: -2549877020140366378
+    second: AltarLevelBreakthrough_lv2_02
+  - first:
+      213: -7145786244861477475
+    second: AltarLevelBreakthrough_lv2_03
+  - first:
+      213: -4612318657677645568
+    second: AltarLevelBreakthrough_lv2_04
+  - first:
+      213: 2866458130360132048
+    second: AltarLevelBreakthrough_lv2_05
+  - first:
+      213: 8477574233190187192
+    second: AltarLevelBreakthrough_lv_01
+  - first:
+      213: -6737817216048189154
+    second: AltarLevelBreakthrough_lv_02
+  - first:
+      213: 3990669265955388576
+    second: AltarLevelBreakthrough_lv_03
+  - first:
+      213: 6947203108096257036
+    second: AltarLevelBreakthrough_lv_04
+  - first:
+      213: 1672805311896189656
+    second: AltarLevelBreakthrough_lv_05
+  - first:
+      213: -1286867207270216913
+    second: AltarLevelBreakthrough_zi_01
+  - first:
+      213: 1637354262269521739
+    second: AltarLevelBreakthrough_zi_02
+  - first:
+      213: 582715402278894798
+    second: AltarLevelBreakthrough_zi_03
+  - first:
+      213: 7177662007193442372
+    second: AltarLevelBreakthrough_zi_04
+  - first:
+      213: 3399611853567047916
+    second: AltarLevelBreakthrough_zi_05
+  - first:
+      213: -1360736029696765640
+    second: AltarLevelBreakthrough_zi_06
+  - first:
+      213: 830331735096305378
+    second: AltarLevelBreakthrough_zi_07
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_01
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 617
+        width: 144
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5b904aebc948040800000000000000
+      internalID: 4649013057963013545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_02
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 163
+        width: 136
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46ca287288689d0800000000000000
+      internalID: -2772378817322523443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_03
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 255
+        width: 144
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a4f9efd8534a560800000000000000
+      internalID: 7324037777989782167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_04
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 393
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ef0bc11eb5489e0800000000000000
+      internalID: -1620068943539405264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_05
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 387
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 37, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12420b33d340e4a0800000000000000
+      internalID: -6566173682199018977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1003
+        width: 532
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda9dc99d05dec2d0800000000000000
+      internalID: -3256431226150610210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 264
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220931abe48fff020800000000000000
+      internalID: 2377892145287893026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_08
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 879
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf33f69c70f95dfa0800000000000000
+      internalID: -5776536091239697412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_09
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 885
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1f318eacd433280800000000000000
+      internalID: -9064816091094322741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 903
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0fe8018cce4c630800000000000000
+      internalID: 3946539517498814630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 953
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ee9cb4d97785b0800000000000000
+      internalID: -5366186476384099575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 41
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1f6e0efeba079e0800000000000000
+      internalID: -1625610418721984063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656b4d607aace57d0800000000000000
+      internalID: -2927679889021290922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 41
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870f8a8df654272c0800000000000000
+      internalID: -4435406336327880584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 925
+        width: 356
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97be4d6c5c9065ec0800000000000000
+      internalID: -3578662108850230407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv2_01
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 623
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f00625c35b0866c0800000000000000
+      internalID: -4150054602204118793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv2_02
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 577
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d51a992c540d9cd0800000000000000
+      internalID: -2549877020140366378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv2_03
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 531
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9db822354115dc90800000000000000
+      internalID: -7145786244861477475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv2_04
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 485
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009a7323e90cdffb0800000000000000
+      internalID: -4612318657677645568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv2_05
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 439
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d165af7b74b7c720800000000000000
+      internalID: 2866458130360132048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv_01
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 725
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b04e4659d466a570800000000000000
+      internalID: 8477574233190187192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv_02
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 571
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11bfe3c0f67e72a0800000000000000
+      internalID: -6737817216048189154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv_03
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 417
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acf65dcd84b16730800000000000000
+      internalID: 3990669265955388576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv_04
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 463
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c21904b6c696060800000000000000
+      internalID: 6947203108096257036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_lv_05
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 309
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da75f9719ff63710800000000000000
+      internalID: 1672805311896189656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_zi_01
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 491
+        width: 264
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b4f85d711242ee0800000000000000
+      internalID: -1286867207270216913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_zi_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 747
+        width: 332
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4feb06c60d09b610800000000000000
+      internalID: 1637354262269521739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_zi_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 569
+        width: 332
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc7bfd2298361800800000000000000
+      internalID: 582715402278894798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_zi_04
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 669
+        width: 332
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4481590119d2c9360800000000000000
+      internalID: 7177662007193442372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_zi_05
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 313
+        width: 264
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8321a08f8dd2f20800000000000000
+      internalID: 3399611853567047916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_zi_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 264
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83159dc5ac1bd1de0800000000000000
+      internalID: -1360736029696765640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelBreakthrough_zi_07
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 847
+        width: 472
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e62624505ee58b00800000000000000
+      internalID: 830331735096305378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c0aa420ab43012f47a7f03019de69aed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AltarLevelBreakthrough_01: 4649013057963013545
+      AltarLevelBreakthrough_02: -2772378817322523443
+      AltarLevelBreakthrough_03: 7324037777989782167
+      AltarLevelBreakthrough_04: -1620068943539405264
+      AltarLevelBreakthrough_05: -6566173682199018977
+      AltarLevelBreakthrough_06: -3256431226150610210
+      AltarLevelBreakthrough_07: 2377892145287893026
+      AltarLevelBreakthrough_08: -5776536091239697412
+      AltarLevelBreakthrough_09: -9064816091094322741
+      AltarLevelBreakthrough_10: 3946539517498814630
+      AltarLevelBreakthrough_11: -5366186476384099575
+      AltarLevelBreakthrough_12: -1625610418721984063
+      AltarLevelBreakthrough_13: -2927679889021290922
+      AltarLevelBreakthrough_14: -4435406336327880584
+      AltarLevelBreakthrough_15: -3578662108850230407
+      AltarLevelBreakthrough_lv2_01: -4150054602204118793
+      AltarLevelBreakthrough_lv2_02: -2549877020140366378
+      AltarLevelBreakthrough_lv2_03: -7145786244861477475
+      AltarLevelBreakthrough_lv2_04: -4612318657677645568
+      AltarLevelBreakthrough_lv2_05: 2866458130360132048
+      AltarLevelBreakthrough_lv_01: 8477574233190187192
+      AltarLevelBreakthrough_lv_02: -6737817216048189154
+      AltarLevelBreakthrough_lv_03: 3990669265955388576
+      AltarLevelBreakthrough_lv_04: 6947203108096257036
+      AltarLevelBreakthrough_lv_05: 1672805311896189656
+      AltarLevelBreakthrough_zi_01: -1286867207270216913
+      AltarLevelBreakthrough_zi_02: 1637354262269521739
+      AltarLevelBreakthrough_zi_03: 582715402278894798
+      AltarLevelBreakthrough_zi_04: 7177662007193442372
+      AltarLevelBreakthrough_zi_05: 3399611853567047916
+      AltarLevelBreakthrough_zi_06: -1360736029696765640
+      AltarLevelBreakthrough_zi_07: 830331735096305378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

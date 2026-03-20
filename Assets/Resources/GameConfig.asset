@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4018f8fb9c0869a498491ddc49db8d5e, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  ballSpeed: 5
+  ballMinAngle: 30
+  ballLaunchAngleRange: 30
+  paddleMoveSpeed: 5
+  paddleMinX: -2
+  paddleMaxX: 2
+  paddleWidth: 4
+  paddleHeight: 0.3
+  brickRows: 5
+  brickColumns: 4
+  brickWidth: 1.5
+  brickHeight: 0.5
+  brickSpacing: 0.2
+  brickStartPosition: {x: -2.5, y: 4.5}
+  brickDestroyScore: 10
+  leftBoundary: -3
+  rightBoundary: 3
+  topBoundary: 5.5
+  bottomBoundary: -5.5
+  boundaryThickness: 0.5
+  cameraSize: 5
+  cameraPosition: {x: 0, y: 0, z: -10}
+  totalLevels: 3
+  levelConfigs:
+  - rows: 2
+    columns: 3
+    ballSpeed: 5
+    paddleWidth: 0.2
+  - rows: 4
+    columns: 4
+    ballSpeed: 6
+    paddleWidth: 0.15
+  - rows: 5
+    columns: 4
+    ballSpeed: 7
+    paddleWidth: 0.13

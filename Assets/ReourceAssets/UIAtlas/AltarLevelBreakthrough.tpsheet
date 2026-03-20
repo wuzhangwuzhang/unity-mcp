@@ -1,0 +1,46 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b027d477621f7c49568959378ec3b5f7:051e6cb84ae360cd7a0b07c80a060123:9141995de5fb7d6fe2d911552f0966b1$
+#
+:format=40300
+:texture=AltarLevelBreakthrough.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelBreakthrough_01;851;617;144;228; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_02;123;163;136;124; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_03;267;255;144;160; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_04;783;393;52;44; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_05;413;387;76;28; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_06;1;1003;532;20; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_07;1;289;264;100; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_08;335;879;20;44; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_09;517;885;16;16; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_10;359;903;160;48; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_11;359;953;164;48; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_12;123;41;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_13;1;117;120;136; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_14;245;41;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_15;1;925;356;76; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv2_01;783;623;56;44; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv2_02;783;577;56;44; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv2_03;783;531;56;44; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv2_04;783;485;56;44; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv2_05;783;439;56;44; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv_01;335;725;180;152; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv_02;335;571;180;152; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv_03;335;417;180;152; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv_04;841;463;180;152; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_lv_05;841;309;180;152; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_zi_01;517;491;264;176; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_zi_02;1;747;332;176; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_zi_03;1;569;332;176; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_zi_04;517;669;332;176; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_zi_05;517;313;264;176; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_zi_06;1;391;264;176; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_zi_07;535;847;472;176; 0.5;0.5; 0;0;0;0

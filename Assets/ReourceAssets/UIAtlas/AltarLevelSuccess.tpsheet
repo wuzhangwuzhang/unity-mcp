@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:feeb94b4ebb8741bfc3a75f83d2c59c8:c04e8f6be27e0381752cd8acf9b0fc8a:8164e99ab3bd1b1c1151ff8eeee33ade$
+#
+:format=40300
+:texture=AltarLevelSuccess.png
+:size=512x256
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelSuccess_01;1;123;456;132; 0.5;0.5; 0;0;0;0
+AltarLevelSuccess_02;1;65;244;56; 0.5;0.5; 0;0;0;0
+AltarLevelSuccess_03;1;27;100;36; 0.5;0.5; 0;0;0;0

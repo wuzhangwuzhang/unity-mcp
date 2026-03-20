@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:04edcf3f5ee6b096c8e73a69196eeabb:4d37ff361304c762438a89a66d840497:271ed1d98a9cde298386253cafd45344$
+#
+:format=40300
+:texture=AltarLevelUnlocked.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelUnlocked_01;1;433;436;136; 0.5;0.5; 0;0;0;0
+AltarLevelUnlocked_02;1;287;412;144; 0.5;0.5; 0;0;0;0
+AltarLevelUnlocked_03;1;1;284;284; 0.5;0.5; 0;0;0;0
+AltarLevelUnlocked_05;1;571;452;452; 0.5;0.5; 0;0;0;0

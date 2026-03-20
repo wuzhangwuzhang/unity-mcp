@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ddd28c2a2afef447ffc5192bbc318410:3e68f730cfdcbf7156c232dcb6dfa63e:2fcc5c1d1a75771e174c53d781596314$
+#
+:format=40300
+:texture=AltarLevelCultivateMaxShaoNv.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelCultivateMaxShaoNv_01;1;679;384;148; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxShaoNv_02;1;319;164;164; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxShaoNv_03;1;485;216;192; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxShaoNv_04;219;485;216;192; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxShaoNv_05;451;843;24;180; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxShaoNv_06;1;899;448;124; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxShaoNv_07;1;829;400;68; 0.5;0.5; 0;0;0;0

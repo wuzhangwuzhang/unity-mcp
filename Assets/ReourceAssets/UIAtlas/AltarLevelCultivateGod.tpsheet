@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ec7086e9ff269ef98f7cd4b794ccaa51:fa64fcc111a441fdbfc2817d7040d702:67e488fbe24c7c49ac8e78a940c4f76e$
+#
+:format=40300
+:texture=AltarLevelCultivateGod.png
+:size=1024x512
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelCultivateGod_01;223;423;692;88; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateGod_02;1;57;408;156; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateGod_03;75;219;64;292; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateGod_04;141;243;80;268; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateGod_05;1;215;72;296; 0.5;0.5; 0;0;0;0

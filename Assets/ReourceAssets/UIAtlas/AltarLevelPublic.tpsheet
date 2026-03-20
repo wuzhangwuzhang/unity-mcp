@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a085ab80822d2c663dc9f787beed1f7d:c62f0e2d5ddecf3249cb582af87c9335:5e5cc773554f528c19773446dee2a0e2$
+#
+:format=40300
+:texture=AltarLevelPublic.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelPublic_01;1;631;380;108; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_02;1;863;384;160; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_03;449;897;56;60; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_04;387;835;52;60; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_05;441;843;52;52; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_06;1;741;384;120; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_07;491;277;20;564; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_08;387;959;112;64; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_09;1;191;132;84; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_10;387;897;60;60; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_11;441;781;48;60; 0.5;0.5; 0;0;0;0
+AltarLevelPublic_12;387;813;28;20; 0.5;0.5; 0;0;0;0

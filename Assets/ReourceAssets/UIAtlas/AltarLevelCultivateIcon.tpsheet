@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b157dd2fb94dea103f05f4b10f7d0dbb:b47fbb0cf9c7cdf39e8bab777571ccbb:3797d5b286f6688d7f9c596d0fbf895f$
+#
+:format=40300
+:texture=AltarLevelCultivateIcon.png
+:size=256x512
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelCultivate_skillicon_1;1;391;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_skillicon_2;123;391;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_skillicon_3;1;269;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_skillicon_4;123;269;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_skillicon_5;1;147;120;120; 0.5;0.5; 0;0;0;0

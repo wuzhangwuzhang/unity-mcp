@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4a46781882d2871435630731d1681d82:83e2ba0fe24632ac3bf2144e13cc1da1:38f0aa36ee2c7a790d7e1b13d1955365$
+#
+:format=40300
+:texture=AltarLevelCultivateMaxJiJia.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelCultivateMaxJiJia_01;1;689;388;128; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_02;1;819;452;204; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_03;1;575;368;112; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_04;291;275;220;220; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_05;1;57;212;216; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_05_1;215;89;184;184; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_06;489;627;20;396; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_07;1;497;360;76; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_08;455;935;32;88; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMaxJiJia_09;1;399;288;96; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:97d2e8b7530cd8bc0361dfb7fc38ee7c:63891c8111677426719a1e70fed28026:07844c88256ec46a516417c650a4d6eb$
+#
+:format=40300
+:texture=AltarLevelIcon.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelBreakthrough_icon_01;1;221;136;128; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_icon_02;1;91;136;128; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_icon_03;139;221;136;128; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_icon_04;147;383;136;128; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_icon_05;139;91;136;128; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_icon_06;285;383;136;128; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_icon_07;277;253;136;128; 0.5;0.5; 0;0;0;0
+AltarLevelBreakthrough_xing;1;351;144;160; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,72 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:be7664b26369bdeb6d3fd3b30dc32ee4:c594f8b45d382d46a62725d5ebe8493b:e2637fe1a8978eb0e7f286b3d51538ed$
+#
+:format=40300
+:texture=AltarLevelCultivate.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelCultivate_01;1;131;140;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_02;195;393;264;104; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_03;373;291;56;100; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_04;493;697;224;140; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_05_1;603;511;52;44; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_05_2;493;503;52;44; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_05_3;547;503;52;44; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_06;509;973;28;28; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_07;207;1003;348;20; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_08;557;959;188;64; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_09;543;893;188;64; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_10_1;299;621;192;216; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_10_2;1;471;192;216; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_10_3;1;253;192;216; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_11_1;1;689;296;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_11_2;207;839;296;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_11_3;195;499;296;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_12_1;757;501;112;96; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_12_2;123;3;112;96; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_12_3;237;3;112;96; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_13;543;843;164;48; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_14;709;843;164;48; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_15;657;499;44;56; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_18;505;861;28;24; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_21;493;549;108;44; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_22;195;627;80;60; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_23;937;939;84;84; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_24;207;961;300;40; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_25;747;959;188;64; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_1;719;721;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_2;635;557;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_3;675;377;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_4;777;599;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_5;875;775;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_6;675;255;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_line1;505;887;36;72; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_line2;635;679;140;16; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_line3;733;897;144;60; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_line4;143;171;24;80; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_line5;493;595;140;100; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_jijia_line6;207;821;68;16; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_sanguo_1;431;175;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_sanguo_2;169;101;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_sanguo_3;1;9;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_sanguo_4;291;101;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_sanguo_5;553;175;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_sanguo_6;675;133;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_sanguo_7;413;53;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_sanguo_8;535;53;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_shaonv_1;657;11;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_shaonv_2;779;11;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_shaonv_3;797;379;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_shaonv_4;797;257;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_shaonv_5;797;135;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_icon_shaonv_6;901;13;120;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_iconbg_1;195;223;176;168; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_iconbg_2;1;811;204;212; 0.5;0.5; 0;0;0;0
+AltarLevelCultivate_iconbg_3;461;297;212;200; 0.5;0.5; 0;0;0;0

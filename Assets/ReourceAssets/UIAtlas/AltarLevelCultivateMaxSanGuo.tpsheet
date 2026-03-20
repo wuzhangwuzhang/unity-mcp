@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4f86a4f3e1284faf0459ea85c61c380e:ebcbfde92182d4f4527693253ffaa9d7:321d68704b97a8c75c44b9ca5a3c1cb8$
+#
+:format=40300
+:texture=AltarLevelCultivateMaxSanGuo.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+AltarLevelCultivateMax_01;1;733;412;168; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMax_02;235;469;192;188; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMax_03;1;415;192;188; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMax_04;415;701;8;200; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMax_05;1;903;504;120; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMax_06;1;659;400;72; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMax_07;1;605;232;52; 0.5;0.5; 0;0;0;0
+AltarLevelCultivateMax_08;195;267;112;200; 0.5;0.5; 0;0;0;0

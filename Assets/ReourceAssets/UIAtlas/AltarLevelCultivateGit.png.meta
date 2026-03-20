@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 7af16c6a780caca4aa2a345003e2110d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4812104990273557746
+    second: AltarLevelCultivateGit_01
+  - first:
+      213: 863188538572154541
+    second: AltarLevelCultivateGit_03
+  - first:
+      213: 1118477060675087476
+    second: AltarLevelCultivateGit_04
+  - first:
+      213: 2746954414078322382
+    second: AltarLevelCultivateGit_05
+  - first:
+      213: -8748725384857966053
+    second: AltarLevelCultivateGit_06
+  - first:
+      213: 2246305490956152573
+    second: AltarLevelCultivateGit_07
+  - first:
+      213: 7121002625200463624
+    second: AltarLevelCultivateGit_08
+  - first:
+      213: -8779991173665543799
+    second: AltarLevelCultivateGit_09
+  - first:
+      213: -388157125659844003
+    second: AltarLevelCultivateGit_10
+  - first:
+      213: 3158590506139328064
+    second: AltarLevelCultivateGit_11
+  - first:
+      213: -1070340260580097352
+    second: AltarLevelCultivateGit_12
+  - first:
+      213: 5997950672249151416
+    second: AltarLevelCultivateGit_13
+  - first:
+      213: 3975714124443474743
+    second: AltarLevelCultivateGit_14
+  - first:
+      213: -7987650338207534573
+    second: AltarLevelCultivateGit_15
+  - first:
+      213: 8789203656294595983
+    second: AltarLevelCultivateGit_16
+  - first:
+      213: -3284678084378510667
+    second: AltarLevelCultivateGit_17
+  - first:
+      213: -3639447962452077209
+    second: AltarLevelCultivateGit_18
+  - first:
+      213: -895196713457588336
+    second: AltarLevelCultivateGit_19
+  - first:
+      213: -4082588786362688429
+    second: AltarLevelCultivateGit_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 713
+        width: 484
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b2cd8c108f73db0800000000000000
+      internalID: -4812104990273557746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 867
+        width: 512
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da628c70769aafb00800000000000000
+      internalID: 863188538572154541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_04
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 635
+        width: 200
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c26f2f5f0a58f00800000000000000
+      internalID: 1118477060675087476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 172
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec664515c742f1620800000000000000
+      internalID: 2746954414078322382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a291e7d98469680800000000000000
+      internalID: -8748725384857966053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_07
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 453
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe637d41fa7c2f10800000000000000
+      internalID: 2246305490956152573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_08
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 233
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f92bfa822e2d260800000000000000
+      internalID: 7121002625200463624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_09
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 823
+        width: 8
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 76, z: 0, w: 99}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989a992cb84372680800000000000000
+      internalID: -8779991173665543799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 545
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d522208962dfc9af0800000000000000
+      internalID: -388157125659844003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 27
+        width: 204
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e1b55945195db20800000000000000
+      internalID: 3158590506139328064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_12
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 697
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2035334336521f0800000000000000
+      internalID: -1070340260580097352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_13
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 619
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfd9bf9b500d3350800000000000000
+      internalID: 5997950672249151416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 280
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bd4f39ee29c2730800000000000000
+      internalID: 3975714124443474743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 252
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127c19765a262190800000000000000
+      internalID: -7987650338207534573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 108
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8df000882689f970800000000000000
+      internalID: 8789203656294595983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 589
+        width: 464
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5babb1b6faa7a62d0800000000000000
+      internalID: -3284678084378510667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 779
+        width: 492
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765568b5c551e7dc0800000000000000
+      internalID: -3639447962452077209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 220
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0976342055f9393f0800000000000000
+      internalID: -895196713457588336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltarLevelCultivateGit_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cdbd8112bb757c0800000000000000
+      internalID: -4082588786362688429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9bf3909eb1a48b64fb459a8cd4dc4a83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AltarLevelCultivateGit_01: -4812104990273557746
+      AltarLevelCultivateGit_03: 863188538572154541
+      AltarLevelCultivateGit_04: 1118477060675087476
+      AltarLevelCultivateGit_05: 2746954414078322382
+      AltarLevelCultivateGit_06: -8748725384857966053
+      AltarLevelCultivateGit_07: 2246305490956152573
+      AltarLevelCultivateGit_08: 7121002625200463624
+      AltarLevelCultivateGit_09: -8779991173665543799
+      AltarLevelCultivateGit_10: -388157125659844003
+      AltarLevelCultivateGit_11: 3158590506139328064
+      AltarLevelCultivateGit_12: -1070340260580097352
+      AltarLevelCultivateGit_13: 5997950672249151416
+      AltarLevelCultivateGit_14: 3975714124443474743
+      AltarLevelCultivateGit_15: -7987650338207534573
+      AltarLevelCultivateGit_16: 8789203656294595983
+      AltarLevelCultivateGit_17: -3284678084378510667
+      AltarLevelCultivateGit_18: -3639447962452077209
+      AltarLevelCultivateGit_19: -895196713457588336
+      AltarLevelCultivateGit_20: -4082588786362688429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
