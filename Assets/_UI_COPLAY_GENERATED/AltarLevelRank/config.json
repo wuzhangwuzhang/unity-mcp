@@ -1,0 +1,237 @@
+{
+  "name": "AltarLevelRank",
+  "position": { "x": 0, "y": 0 },
+  "size": { "width": 1920, "height": 1080 },
+  "type": "Canvas",
+  "controls": [
+    {
+      "name": "Background",
+      "position": { "x": 0, "y": 0 },
+      "size": { "width": 1920, "height": 1080 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "TitleImage",
+      "position": { "x": -700, "y": 450 },
+      "size": { "width": 300, "height": 100 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "HelpButton",
+      "position": { "x": -500, "y": 480 },
+      "size": { "width": 50, "height": 50 },
+      "type": "Button",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "CloseButton",
+      "position": { "x": 850, "y": 450 },
+      "size": { "width": 80, "height": 80 },
+      "type": "Button",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "TabGroup",
+      "position": { "x": -750, "y": 0 },
+      "size": { "width": 300, "height": 600 },
+      "type": "Image",
+      "backgroundType": "None"
+    },
+    {
+      "name": "Tab1",
+      "position": { "x": -750, "y": 150 },
+      "size": { "width": 250, "height": 80 },
+      "type": "Toggle",
+      "backgroundType": "Simple",
+      "text": "神位突破"
+    },
+    {
+      "name": "Tab2",
+      "position": { "x": -750, "y": 0 },
+      "size": { "width": 250, "height": 80 },
+      "type": "Toggle",
+      "backgroundType": "Simple",
+      "text": "神格养成"
+    },
+    {
+      "name": "Tab3",
+      "position": { "x": -750, "y": -150 },
+      "size": { "width": 250, "height": 80 },
+      "type": "Toggle",
+      "backgroundType": "Simple",
+      "text": "巅峰神榜"
+    },
+    {
+      "name": "RightBtn1",
+      "position": { "x": 750, "y": 100 },
+      "size": { "width": 150, "height": 150 },
+      "type": "Button",
+      "backgroundType": "Simple",
+      "text": "众神之王"
+    },
+    {
+      "name": "RightBtn2",
+      "position": { "x": 750, "y": -150 },
+      "size": { "width": 150, "height": 150 },
+      "type": "Button",
+      "backgroundType": "Simple",
+      "text": "神位榜"
+    },
+    {
+      "name": "VersionText",
+      "position": { "x": 800, "y": -300 },
+      "size": { "width": 200, "height": 40 },
+      "type": "Text",
+      "text": "程序版本:4.1"
+    },
+    {
+      "name": "CenterFrame",
+      "position": { "x": 0, "y": 0 },
+      "size": { "width": 1100, "height": 800 },
+      "type": "Image",
+      "backgroundType": "Sliced"
+    },
+    {
+      "name": "HeaderRank",
+      "position": { "x": -350, "y": 320 },
+      "size": { "width": 100, "height": 50 },
+      "type": "Text",
+      "text": "排名"
+    },
+    {
+      "name": "HeaderPlayer",
+      "position": { "x": -50, "y": 320 },
+      "size": { "width": 100, "height": 50 },
+      "type": "Text",
+      "text": "玩家"
+    },
+    {
+      "name": "HeaderTier",
+      "position": { "x": 300, "y": 320 },
+      "size": { "width": 100, "height": 50 },
+      "type": "Text",
+      "text": "段位"
+    },
+    {
+      "name": "RankScrollView",
+      "position": { "x": 0, "y": 0 },
+      "size": { "width": 1050, "height": 550 },
+      "type": "Image",
+      "backgroundType": "None"
+    },
+    {
+      "name": "RankItemTemplate",
+      "position": { "x": 0, "y": 200 },
+      "size": { "width": 1000, "height": 120 },
+      "type": "Image",
+      "backgroundType": "Sliced"
+    },
+    {
+      "name": "ItemRankIcon",
+      "position": { "x": -350, "y": 200 },
+      "size": { "width": 80, "height": 80 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "ItemRankText",
+      "position": { "x": -350, "y": 200 },
+      "size": { "width": 80, "height": 80 },
+      "type": "Text",
+      "text": "1"
+    },
+    {
+      "name": "ItemAvatarFrame",
+      "position": { "x": -150, "y": 200 },
+      "size": { "width": 100, "height": 100 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "ItemAvatar",
+      "position": { "x": -150, "y": 200 },
+      "size": { "width": 80, "height": 80 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "ItemPlayerName",
+      "position": { "x": 0, "y": 200 },
+      "size": { "width": 200, "height": 50 },
+      "type": "Text",
+      "text": "来自北方的狼"
+    },
+    {
+      "name": "ItemTierIcon",
+      "position": { "x": 200, "y": 200 },
+      "size": { "width": 80, "height": 80 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "ItemTierText",
+      "position": { "x": 350, "y": 200 },
+      "size": { "width": 200, "height": 50 },
+      "type": "Text",
+      "text": "至尊神王222004"
+    },
+    {
+      "name": "MyRankPanel",
+      "position": { "x": 0, "y": -320 },
+      "size": { "width": 1050, "height": 120 },
+      "type": "Image",
+      "backgroundType": "Sliced"
+    },
+    {
+      "name": "MyRankLabel",
+      "position": { "x": -480, "y": -320 },
+      "size": { "width": 40, "height": 100 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "MyRankText",
+      "position": { "x": -350, "y": -320 },
+      "size": { "width": 80, "height": 80 },
+      "type": "Text",
+      "text": "6"
+    },
+    {
+      "name": "MyAvatarFrame",
+      "position": { "x": -150, "y": -320 },
+      "size": { "width": 100, "height": 100 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "MyAvatar",
+      "position": { "x": -150, "y": -320 },
+      "size": { "width": 80, "height": 80 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "MyPlayerName",
+      "position": { "x": 0, "y": -320 },
+      "size": { "width": 200, "height": 50 },
+      "type": "Text",
+      "text": "后狐艺"
+    },
+    {
+      "name": "MyTierIcon",
+      "position": { "x": 200, "y": -320 },
+      "size": { "width": 80, "height": 80 },
+      "type": "Image",
+      "backgroundType": "Simple"
+    },
+    {
+      "name": "MyTierText",
+      "position": { "x": 350, "y": -320 },
+      "size": { "width": 200, "height": 50 },
+      "type": "Text",
+      "text": "至尊神王1008"
+    }
+  ]
+}

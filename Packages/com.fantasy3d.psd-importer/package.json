@@ -1,0 +1,20 @@
+{
+  "name": "com.fantasy3d.psd-importer",
+  "version": "1.0.0",
+  "displayName": "PSD to UGUI Importer",
+  "description": "将PSD导出的JSON+切图资源自动生成UGUI Prefab，支持九宫格、图集打包、按钮自动识别等功能。",
+  "unity": "2019.4",
+  "keywords": [
+    "psd",
+    "ugui",
+    "ui",
+    "importer",
+    "prefab"
+  ],
+  "author": {
+    "name": "Fantasy3D Team"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  }
+}
