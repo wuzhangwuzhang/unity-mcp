@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: 9fe485edd5a485b48b4e346ce42c58c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7448810389200575084
+    second: ty_hljl_nz_05
+  - first:
+      213: 7257033259328222036
+    second: ty_hljl_nz_06
+  - first:
+      213: -8551539017336678633
+    second: ty_hljl_nz_08
+  - first:
+      213: 7043462755339676677
+    second: ty_hljl_nz_09
+  - first:
+      213: -1467204204129454565
+    second: ty_hljl_nz_10
+  - first:
+      213: 7977131893402528035
+    second: ty_hljl_nz_11
+  - first:
+      213: 7550062923618681598
+    second: ty_hljl_nz_13
+  - first:
+      213: -630950198043114776
+    second: ty_hljl_nz_14
+  - first:
+      213: -5082150769109043448
+    second: ty_hljl_nz_15
+  - first:
+      213: 1477634903785746841
+    second: ty_hljl_nz_17
+  - first:
+      213: 6199056714941497880
+    second: ty_hljl_nz_20
+  - first:
+      213: 9093717153443056815
+    second: ty_hljl_nz_21
+  - first:
+      213: 5088337584419712507
+    second: ty_hljl_nz_22
+  - first:
+      213: -1903293800816195799
+    second: ty_hljl_nz_23
+  - first:
+      213: 2119233016694621211
+    second: ty_hljl_nz_24
+  - first:
+      213: -3300576595899410040
+    second: ty_hljl_nz_25
+  - first:
+      213: -1678344374724361999
+    second: ty_hljl_nz_26
+  - first:
+      213: 7583095879158886145
+    second: ty_hljl_nz_28
+  - first:
+      213: 3868714940004577680
+    second: ty_hljl_nz_29
+  - first:
+      213: -6948542968977615785
+    second: ty_hljl_nz_30
+  - first:
+      213: -5508273260058522781
+    second: ty_hljl_nz_36
+  - first:
+      213: 8746328985166892990
+    second: ty_hljl_nz_37
+  - first:
+      213: 6872174410833329397
+    second: ty_hljl_nz_38
+  - first:
+      213: -2271328245324779564
+    second: ty_hljl_nz_39
+  - first:
+      213: 5314099642002502811
+    second: ty_hljl_nz_40
+  - first:
+      213: -6338480969694708646
+    second: ty_hljl_nz_42
+  - first:
+      213: 1856082958274465267
+    second: ty_hljl_nz_43
+  - first:
+      213: 5173444024185672484
+    second: ty_hljl_nz_44
+  - first:
+      213: -1853924078558371965
+    second: ty_hljl_nz_45
+  - first:
+      213: 3459835179404495325
+    second: ty_hljl_nz_46
+  - first:
+      213: -699787090264915156
+    second: ty_hljl_nz_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ty_hljl_nz_05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 376
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e570aa6280a890800000000000000
+      internalID: -7448810389200575084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_06
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 978
+        width: 452
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4533479cc4926b460800000000000000
+      internalID: 7257033259328222036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_08
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 537
+        width: 352
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71711cc5294d25980800000000000000
+      internalID: -8551539017336678633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_09
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 490
+        width: 332
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c27b0ee086fb160800000000000000
+      internalID: 7043462755339676677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 227
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1677e7cc8173abe0800000000000000
+      internalID: -1467204204129454565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 800
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32962b0413774be60800000000000000
+      internalID: 7977131893402528035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_13
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 637
+        width: 44
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef283222a3637c860800000000000000
+      internalID: 7550062923618681598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_14
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 447
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e28da6432a6e37f0800000000000000
+      internalID: -630950198043114776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_15
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 221
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807f6484dc29879b0800000000000000
+      internalID: -5082150769109043448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_17
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 907
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9913edbbd1d918410800000000000000
+      internalID: 1477634903785746841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_20
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 713
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812869cfc39770650800000000000000
+      internalID: 6199056714941497880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 472
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac89da029f533e70800000000000000
+      internalID: 9093717153443056815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_22
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 942
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd2b98e2186d9640800000000000000
+      internalID: 5088337584419712507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_23
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 360
+        width: 136
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c52b4f542695e0800000000000000
+      internalID: -1903293800816195799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 654
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14cc545337096d10800000000000000
+      internalID: 2119233016694621211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 244
+        width: 215
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4976744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889927fb21ff132d0800000000000000
+      internalID: -3300576595899410040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 215
+        height: 8
+      alignment: 9
+      pivot: {x: 0.4976744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f087c5fea255b8e0800000000000000
+      internalID: -1678344374724361999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_28
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 808
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f6efe66819c3960800000000000000
+      internalID: 7583095879158886145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09138389dbf60b530800000000000000
+      internalID: 3868714940004577680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 831
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7541d831cf0d19f90800000000000000
+      internalID: -6948542968977615785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 764
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bcd6077aeae83b0800000000000000
+      internalID: -5508273260058522781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 262
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf43993fd3316970800000000000000
+      internalID: 8746328985166892990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcff30673ede5f50800000000000000
+      internalID: 6872174410833329397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 229
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfea11befe9a70e0800000000000000
+      internalID: -2271328245324779564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 689
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94f69618797fb940800000000000000
+      internalID: 5314099642002502811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 319
+        width: 292
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cf5c904213908a0800000000000000
+      internalID: -6338480969694708646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 839
+        width: 428
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd0b99dd9122c910800000000000000
+      internalID: 1856082958274465267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 671
+        width: 384
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42354fe0ee3cbc740800000000000000
+      internalID: 5173444024185672484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_45
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 608
+        width: 384
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1cf08fd98546e0800000000000000
+      internalID: -1853924078558371965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_46
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 586
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd90ec1c3cdc30030800000000000000
+      internalID: 3459835179404495325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_hljl_nz_47
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 457
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230b5a595bd946f0800000000000000
+      internalID: -699787090264915156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ty_hljl_nz_05: -7448810389200575084
+      ty_hljl_nz_06: 7257033259328222036
+      ty_hljl_nz_08: -8551539017336678633
+      ty_hljl_nz_09: 7043462755339676677
+      ty_hljl_nz_10: -1467204204129454565
+      ty_hljl_nz_11: 7977131893402528035
+      ty_hljl_nz_13: 7550062923618681598
+      ty_hljl_nz_14: -630950198043114776
+      ty_hljl_nz_15: -5082150769109043448
+      ty_hljl_nz_17: 1477634903785746841
+      ty_hljl_nz_20: 6199056714941497880
+      ty_hljl_nz_21: 9093717153443056815
+      ty_hljl_nz_22: 5088337584419712507
+      ty_hljl_nz_23: -1903293800816195799
+      ty_hljl_nz_24: 2119233016694621211
+      ty_hljl_nz_25: -3300576595899410040
+      ty_hljl_nz_26: -1678344374724361999
+      ty_hljl_nz_28: 7583095879158886145
+      ty_hljl_nz_29: 3868714940004577680
+      ty_hljl_nz_30: -6948542968977615785
+      ty_hljl_nz_36: -5508273260058522781
+      ty_hljl_nz_37: 8746328985166892990
+      ty_hljl_nz_38: 6872174410833329397
+      ty_hljl_nz_39: -2271328245324779564
+      ty_hljl_nz_40: 5314099642002502811
+      ty_hljl_nz_42: -6338480969694708646
+      ty_hljl_nz_43: 1856082958274465267
+      ty_hljl_nz_44: 5173444024185672484
+      ty_hljl_nz_45: -1853924078558371965
+      ty_hljl_nz_46: 3459835179404495325
+      ty_hljl_nz_47: -699787090264915156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
