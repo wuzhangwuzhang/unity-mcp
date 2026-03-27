@@ -1,7 +1,18 @@
 {
   "mcpServers": {
-    "ai-game-developer": {
-      "url": "http://localhost:25158"
+    "coplay-mcp": {
+      "command": "uvx",
+      "args": [
+        "--python",
+        ">=3.11",
+        "coplay-mcp-server@latest"
+      ],
+      "env": {
+        "MCP_TOOL_TIMEOUT": "720000"
+      },
+      "autoApprove": [
+        "list_unity_project_roots"
+      ]
     }
   }
 }
